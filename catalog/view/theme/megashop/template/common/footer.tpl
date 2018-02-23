@@ -131,7 +131,7 @@ require( ThemeControlHelper::getLayoutPath( 'common/block-cols.tpl' ) );
                 <?php } else { ?>
                 <?php echo $powered; ?>.
                 <?php } ?>
-                Designed by <a href="http://www.pavothemes.com" title="PavoThemes - Opencart Themes Clubs" target="_blank">PavoThemes</a>
+                Designed by <a href="#" title="" target="_blank">MCN</a>
             </div>
             <?php if( $content=$helper->getLangConfig('widget_paypal') ) { ?>
             <div class="paypal">

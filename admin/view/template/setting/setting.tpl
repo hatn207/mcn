@@ -1576,12 +1576,12 @@
                   <?php } ?>
                 </div>
               </div>
-              <div class="form-group">
+              {*<div class="form-group">
                 <label class="col-sm-2 control-label" for="input-google-analytics"><span data-toggle="tooltip" data-html="true" data-trigger="click" title="<?php echo htmlspecialchars($help_google_analytics); ?>"><?php echo $entry_google_analytics; ?></span></label>
                 <div class="col-sm-10">
                   <textarea name="config_google_analytics" rows="5" placeholder="<?php echo $entry_google_analytics; ?>" id="input-google-analytics" class="form-control"><?php echo $config_google_analytics; ?></textarea>
                 </div>
-              </div>
+              </div>*}
             </div>
           </div>
         </form>

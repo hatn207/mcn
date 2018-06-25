@@ -56,3 +56,428 @@
 2018-02-21 10:06:13 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
 2018-02-21 10:06:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
 2018-02-21 10:06:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:02 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:02 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:49:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:50:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:50:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:22 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:22 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:33 - PHP Notice:  Undefined index: list in E:\xam\htdocs\mcn\admin\controller\module\pavmegamenu.php on line 277
+2018-03-06 4:51:33 - PHP Warning:  Invalid argument supplied for foreach() in E:\xam\htdocs\mcn\admin\model\menu\megamenu.php on line 182
+2018-03-06 4:51:34 - PHP Notice:  Undefined index: list in E:\xam\htdocs\mcn\admin\controller\module\pavmegamenu.php on line 277
+2018-03-06 4:51:34 - PHP Warning:  Invalid argument supplied for foreach() in E:\xam\htdocs\mcn\admin\model\menu\megamenu.php on line 182
+2018-03-06 4:51:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:51:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:52:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:52:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:55:13 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:55:13 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:57:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:57:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:57:35 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:57:35 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:58 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:58:58 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:59:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 4:59:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:00:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:01:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:01:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:01:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:01:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:02:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:18:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:18:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:18:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:18:21 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:20:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:20:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:54 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:21:54 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:24 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:24 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:22:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:23:23 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:23:23 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:30 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:54 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:24:54 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:25:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:27:35 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:28:12 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:28:12 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:29:02 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:29:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:29:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:29:45 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:13 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:19 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:19 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:30:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:31:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:31:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:31:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:31:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:32:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:32:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:32:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:32:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:36:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:36:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:36:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:36:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:42:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:42:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:45 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:43:45 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:45:35 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:45:35 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:46:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:47:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:47:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:48:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:48:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:48:25 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 5:48:25 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:30:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:30:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:30:28 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:30:28 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:34:02 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:34:02 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:36:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 6:36:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:35:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:35:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:35:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:35:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:36:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:36:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:38:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:38:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:40:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:40:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:59 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:54:59 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-06 7:55:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-12 5:04:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-12 5:04:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 2:49:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 2:49:36 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 3:06:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 3:06:51 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 3:10:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 3:10:08 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 6:22:22 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 6:22:22 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 6:34:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 6:34:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:01:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:01:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:01:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:01:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:24 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:24 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:40 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:49 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:02:49 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:03:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:03:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:03:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:03:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:04:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:05:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:05:10 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:07:58 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:07:58 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:14:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:14:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:15:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:15:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-03-14 11:15:40 - PHP Notice:  Undefined variable: direction in E:\xam\htdocs\mcn\catalog\view\theme\megashop\template\themecontrol\product.tpl on line 35
+2018-03-14 11:15:40 - PHP Notice:  Undefined variable: lang in E:\xam\htdocs\mcn\catalog\view\theme\megashop\template\themecontrol\product.tpl on line 35
+2018-03-14 11:15:40 - PHP Notice:  Undefined variable: direction in E:\xam\htdocs\mcn\catalog\view\theme\megashop\template\themecontrol\product.tpl on line 36
+2018-03-14 11:15:40 - PHP Notice:  Undefined variable: lang in E:\xam\htdocs\mcn\catalog\view\theme\megashop\template\themecontrol\product.tpl on line 36
+2018-04-02 9:58:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 9:58:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 9:58:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 9:58:27 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 9:59:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 9:59:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:05:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:05:04 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:05:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:05:14 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:20 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:32 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:32 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:37 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:06:37 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:10:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:10:01 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:16 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:50 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:50 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:11:56 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:39 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:46 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:50 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:12:50 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:13:05 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:13:05 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:15:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:15:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:16:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:16:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:16:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:16:53 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:03 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:11 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:15 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:18:43 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:19:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:19:06 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:22:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:22:09 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:26 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:26 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:29 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:38 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:55 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:55 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:23:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:24:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:24:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:42 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:25:57 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:26:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:26:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:26:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:26:52 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:00 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:18 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:27:31 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:29:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-02 10:29:07 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-05 9:02:24 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 310 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:02:24 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 310 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:02:24 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:02:24 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:03:51 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:03:51 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:03:51 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:03:51 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:06:04 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:06:04 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:06:04 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:06:04 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:06:51 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:06:51 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:06:51 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:06:51 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:24 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:24 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:24 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:24 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:42 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:42 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:42 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:42 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:54 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:54 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:08:54 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:08:54 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:09:29 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:09:29 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:09:29 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:09:29 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:10:57 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:10:57 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:10:57 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:10:57 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:11:50 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:11:50 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:11:50 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:11:50 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:13:50 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:13:50 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:13:50 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:13:50 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:14:18 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:14:18 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:14:18 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:14:18 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:15:03 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:15:03 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:15:03 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:15:03 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:16:39 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:16:39 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:16:39 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:16:39 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:18:43 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:18:43 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:18:43 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:18:43 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:19:31 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:19:31 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:19:31 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:19:31 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:20:14 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:20:14 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:20:14 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:20:14 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:20:45 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:20:45 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:20:45 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:20:45 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:22:34 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 310 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:22:34 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 310 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:22:34 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:22:34 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:23:49 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:23:49 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:23:49 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:23:49 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:25:56 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:25:56 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:25:56 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:25:56 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:26:55 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:26:55 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:26:55 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:26:55 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:27:46 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:27:46 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:27:46 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:27:46 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:28:35 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:28:35 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:28:35 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:28:35 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:30:18 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:30:18 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 9:30:18 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:30:18 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 9:33:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-05 9:33:33 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-05 11:34:03 - PHP Warning:  Missing argument 2 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 11:34:03 - PHP Warning:  Missing argument 3 for ControllerModuleThemeControl::redirect(), called in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 308 and defined in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 596
+2018-04-05 11:34:03 - PHP Notice:  Undefined variable: param in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 11:34:03 - PHP Notice:  Undefined variable: ssl in E:\xam\htdocs\mcn\admin\controller\module\themecontrol.php on line 597
+2018-04-05 11:55:47 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
+2018-04-05 11:55:47 - PHP Notice:  Undefined variable: placeholder in E:\xam\htdocs\mcn\admin\view\template\module\pavmegamenu\pavmegamenu_form.tpl on line 139
